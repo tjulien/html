@@ -2,12 +2,12 @@ html.tool
 ===========
 
 inspired by json.tool, a pretty printer for html
-	 $ echo '&lt;html&gt;&lt;body&gt;Hello World&lt;/body&gt;&lt;/html&gt;' | python -mhtml.tool
-	 &lt;html&gt;
- 	  &lt;body&gt;
+	 $ echo '<html><body>Hello World</body></html>' | python -mhtml.tool
+	 <html>
+ 	  <body>
   	   Hello World
- 	  &lt;/body&gt;
-	 &lt;/html&gt;
+ 	  </body>
+	 </html>
 
 Installation
 ============
