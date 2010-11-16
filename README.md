@@ -13,7 +13,7 @@ OR
 	sudo easy_install BeautifulSoup
 OR
 	some such
-
+THEN
 	git clone git://github.com/tjulien/html.git
 and put that in your PYTHONPATH
 OR
