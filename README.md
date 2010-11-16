@@ -8,13 +8,12 @@ inspired by json.tool, a pretty printer for html
 
 Installation
 ------------
-1.
 	sudo apt-get install python-beautifulsoup
 OR
 	sudo easy_install BeautifulSoup
 OR
 	some such
-2.
+
 	git clone git://github.com/tjulien/html.git
 and put that in your PYTHONPATH
 OR
